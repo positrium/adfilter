@@ -5,4 +5,4 @@
 ! last update 2021-04-19
 !
 
-rt.coronafly.ru
+/rt\.coronafly\.ru/$doc,domain=ru
