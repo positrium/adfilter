@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: 豆filter
-! Homepage: http://tofukko.r.ribbon.to/abp.html
+! Homepage: https://github.com/positrium/adfilter/edit/main/adfilter.txt
 !
 ! last update 2021-04-19
 !
 
 /rt\.coronafly\.ru/$doc,domain=ru
+/ru/$doc,domain=ru
