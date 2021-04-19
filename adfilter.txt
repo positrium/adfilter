@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: ADFilter
+! Homepage: http://tofukko.r.ribbon.to/abp.html
+!
+! last update 2021-04-19
+!
+
+rt.coronafly.ru
