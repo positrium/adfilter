@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 豆filter
+! Title: 露フィルタ
 ! Homepage: https://github.com/positrium/adfilter/edit/main/adfilter.txt
 !
 ! last update 2021-04-19
