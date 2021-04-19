@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: ADFilter
+! Title: 豆filter
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
 ! last update 2021-04-19
